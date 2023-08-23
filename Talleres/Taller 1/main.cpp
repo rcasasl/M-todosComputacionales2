@@ -1,3 +1,10 @@
+#include "microwave.h"
+#include "remotecontrol.h"
+
+
+
+
+
 int main ()
 {
     Microwave microwave_1;
